@@ -1,0 +1,14 @@
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Grace\Documents\Wearhacks\Testing Assets\obj\Debug\Assembly-CSharp-firstpass.pdb
